@@ -32,10 +32,10 @@ end)
 --MiniMapTracking:SetPoint('TOPLEFT', -2, 2)
 --MiniMapTracking:SetScale(.8)
 
-BattlegroundShine:Hide()
-MiniMapBattlefieldBorder:SetTexture('')
-MiniMapBattlefieldFrame:ClearAllPoints()
-MiniMapBattlefieldFrame:SetPoint('TOPRIGHT', Minimap, 0, 0)
+-- BattlegroundShine:Hide()
+-- MiniMapBattlefieldBorder:SetTexture('')
+-- MiniMapBattlefieldFrame:ClearAllPoints()
+-- MiniMapBattlefieldFrame:SetPoint('TOPRIGHT', Minimap, 0, 0)
 
 --[[
 MiniMapMailBorder:Hide()
